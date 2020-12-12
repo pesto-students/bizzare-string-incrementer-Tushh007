@@ -1,0 +1,25 @@
+{
+  "name": "bizzare-string-incrementer-Tushh007",
+  "version": "1.0.0",
+  "description": "Given a bizarre string, increment the string by 1. Refer to the test cases for more info.",
+  "main": "bizarreStringIncrementer.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha bizarreStringIncrementer.test.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesto-students/bizzare-string-incrementer-Tushh007.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pesto-students/bizzare-string-incrementer-Tushh007/issues"
+  },
+  "homepage": "https://github.com/pesto-students/bizzare-string-incrementer-Tushh007#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
